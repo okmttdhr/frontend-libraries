@@ -39,5 +39,6 @@
 
 ## ~~e2e testing~~
 
+- ~~[TestCafe](https://github.com/DevExpress/testcafe)~~
 - ~~Nightwatch~~
 - ~~Protractor~~
