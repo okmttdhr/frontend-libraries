@@ -1,39 +1,39 @@
-# frontend-libraries
+# Frontend Libraries
 
-## views
+## Views
 
 - React
 - Angular
 - Vue.js
 
-## state management
+## State Management
 
 - Observer Pattern (like Flux, Redux, etc)
 
-## static type checker
+## Static Type Checker
 
 - TypeScript
 - Flow
 
-## build
+## Build
 
 - webpack
 - Rollup
 
-## modules
+## Modules
 
 - npm 
 - yarn
 
-## styles
+## Styles
 
 - BEM
 
-## unit testing
+## Unit Testing
 
 - AVA
 
-## ui testing
+## UI Testing
 
 - Karma
 
