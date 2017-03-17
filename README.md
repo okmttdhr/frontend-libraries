@@ -42,3 +42,17 @@
 - ~~[TestCafe](https://github.com/DevExpress/testcafe)~~
 - ~~Nightwatch~~
 - ~~Protractor~~
+
+## Others
+
+### Requests
+
+- request/superagent/axios/unirest-nodejs/fetch
+
+### Promise
+
+- bluebird/q
+
+### Others
+
+- lodash/moment/validator
