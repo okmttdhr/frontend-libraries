@@ -29,15 +29,17 @@
 
 - BEM
 
-## Unit Testing
+## Testing
+
+### Unit Testing
 
 - AVA
 
-## UI Testing
+### UI Testing
 
 - Karma
 
-## ~~e2e testing~~
+### ~~e2e testing~~
 
 - ~~[TestCafe](https://github.com/DevExpress/testcafe)~~
 - ~~Nightwatch~~
