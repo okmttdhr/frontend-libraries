@@ -1,5 +1,7 @@
 # Frontend Libraries
 
+Frontend libraries I use for now and next projects.
+
 ## Views
 
 - React
