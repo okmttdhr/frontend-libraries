@@ -39,7 +39,7 @@
 
 - Karma
 
-### ~~e2e testing~~
+### ~~E2E Testing~~
 
 - ~~[TestCafe](https://github.com/DevExpress/testcafe)~~
 - ~~Nightwatch~~
