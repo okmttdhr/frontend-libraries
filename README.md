@@ -30,6 +30,7 @@ Frontend libraries I use for now and next projects.
 ## Styles
 
 - BEM
+- CSS Modules
 
 ## Testing
 
