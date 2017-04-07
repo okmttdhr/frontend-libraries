@@ -36,6 +36,7 @@ Frontend libraries I use for now and next projects.
 
 ### Unit Testing
 
+- VDOM(Enzyme, ReactTestUtils)
 - AVA
 
 ### UI Testing
@@ -60,4 +61,7 @@ Frontend libraries I use for now and next projects.
 
 ### Others
 
-- lodash/moment/validator
+- lodash
+- moment
+- validator
+
