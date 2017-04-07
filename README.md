@@ -49,6 +49,10 @@ Frontend libraries I use for now and next projects.
 - ~~Nightwatch~~
 - ~~Protractor~~
 
+### Others
+
+- lint/coverage
+
 ## Others
 
 ### Requests
