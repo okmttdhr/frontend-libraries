@@ -31,6 +31,7 @@ Frontend libraries I use for now and next projects.
 
 - BEM
 - CSS Modules
+- [Polished](https://github.com/styled-components/polished)
 
 ## Testing
 
