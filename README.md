@@ -26,6 +26,7 @@ Frontend libraries I use for now and next projects.
 
 - npm 
 - yarn
+- [pnpm](https://github.com/pnpm/pnpm)
 
 ## Styles
 
