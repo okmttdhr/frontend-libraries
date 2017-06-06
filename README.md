@@ -59,7 +59,7 @@ Frontend libraries I use for now and next projects.
 
 ### Requests
 
-- request/superagent/axios/unirest-nodejs/fetch
+- superagent/axios/unirest-nodejs/fetch
 
 ### Promise
 
