@@ -17,7 +17,7 @@ Frontend libraries I use for now and next projects.
 - TypeScript
 - Flow
 
-## Build
+## Bundler
 
 - webpack
 - Rollup
