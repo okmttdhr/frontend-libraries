@@ -7,10 +7,13 @@ Frontend libraries I use for now and next projects.
 - React
 - Angular
 - Vue.js
+- Polymer
 
 ## State Management
 
 - Observer Pattern (like Flux, Redux, etc)
+- MobX
+- RxJS
 
 ## Static Type Checker
 
