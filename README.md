@@ -1,6 +1,6 @@
-# Frontend Libraries
+# Front-End Libraries
 
-Frontend libraries I use for now and next projects.
+Front-End libraries I use for now and next projects.
 
 ## Views
 
