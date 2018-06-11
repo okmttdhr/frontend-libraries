@@ -2,6 +2,11 @@
 
 Front-End libraries I use for now and next projects.
 
+## Frameworks
+
+- Next.js
+- Nuxt.js
+
 ## Views
 
 - React
