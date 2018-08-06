@@ -34,7 +34,6 @@ Front-End libraries I use for now and next projects.
 
 - npm 
 - yarn
-- [pnpm](https://github.com/pnpm/pnpm)
 
 ## Styles
 
@@ -46,13 +45,13 @@ Front-End libraries I use for now and next projects.
 
 ### Unit Testing
 
-- VDOM(Enzyme, ReactTestUtils)
+- Jest
 - AVA
 
 ### UI Testing
 
+- Storybook
 - Karma
-- Storybook(UI Documentation)
 
 ### ~~E2E Testing~~
 
@@ -68,7 +67,7 @@ Front-End libraries I use for now and next projects.
 
 ### Requests
 
-- axios/unirest-nodejs/fetch/superagent
+- axios/fetch
 
 ### Promise
 
